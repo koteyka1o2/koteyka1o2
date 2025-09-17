@@ -1,4 +1,3 @@
-
 <h1 align="center">⛄️🎄 Yo! Я Костя 🎄⛄️</h1>
 <h3 align="center">✨ 16 лет | Python разработка | Windows 11 ✨</h3>
 
@@ -7,6 +6,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" width="250"/>
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="600"/>
 </p>
 
 ---
@@ -49,12 +52,17 @@
 
 ## 🎄 Атмосфера
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250"/>
 </p>
 
 ---
 
 <p align="center">
   ✨ С Новым годом, и пусть всегда будет вайб ✨  
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="250"/>
 </p>

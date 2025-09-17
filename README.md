@@ -3,7 +3,9 @@
 
 ---
 
-
+<p align="center">
+  <img src="https://i.gifer.com/1UW4.gif" width="600"/> <!-- гирлянда -->
+</p>
 
 <p align="center">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/93c67daff9cd04061ce3fa1e135e44c33b8e46c0cd4ac1da0009de3d5ed43bc1.gif" width="600"/>
@@ -50,9 +52,9 @@
 
 ## 🎄 Атмосфера
 <p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="250"/> <!-- снегопад -->
   <img src="https://media.tenor.com/T8cMDloCf5QAAAAj/pwgood-mikro-pwgood.gif" width="250"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250"/>
+  <img src="https://i.gifer.com/4C2k.gif" width="250"/> <!-- ёлка -->
 </p>
 
 <p align="center">
@@ -62,7 +64,7 @@
 ---
 
 <p align="center">
-  ✨ С Новым годом!✨  
+  ✨ С Новым годом! ✨  
 </p>
 
 <p align="center">

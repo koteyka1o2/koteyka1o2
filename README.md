@@ -22,12 +22,12 @@
 
 ## 🎶 Музыкальный вайб  
 <p align="center">
-  <img src="https://i.scdn.co/image/ab6761610000e5eb0b567c64fdf75f1a4bb7fcbf" width="120" style="border-radius:50%"/>
+  <img src="https://telegraphoto.site/images/ddc05193-9d94-4fbe-a6f6-d5c1c9bf70da.jpg" width="120" style="border-radius:50%"/>
 </p>
 
 <p align="center">
   <b>MZLFF</b><br>
-  <a href="https://soundcloud.com/mzlff/ptmchk">🎧 Слушать «Почемучка»</a>
+  <a href="https://soundcloud.com/mzlff-74073583/pochemuchka-feat-ekaterina?si=82401e40f2e04be380cce383f5c0faa6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">🎧 Слушать «Почемучка»</a>
 </p>
 
 ---

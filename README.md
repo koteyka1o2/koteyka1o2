@@ -45,7 +45,8 @@
 
 ## 📊 GitHub статистика
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=koteyka1o2&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koteyka1o2&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---

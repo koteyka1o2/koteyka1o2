@@ -33,6 +33,8 @@
   <a href="https://soundcloud.com/mzlff-74073583/pochemuchka-feat-ekaterina?si=82401e40f2e04be380cce383f5c0faa6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">🎧 Слушать «Почемучка»</a>
 </p>
 
+   https://github.com/user-attachments/assets/c9f2c198-7ff6-4237-a319-c7dae44b85e1
+
 ---
 
 ## 🛠️ Стек
@@ -58,9 +60,9 @@
   <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250"/>
 </p>
 
-<p align="center">
-  https://github.com/user-attachments/assets/c9f2c198-7ff6-4237-a319-c7dae44b85e1
-</p>
+
+ 
+
 
 ---
 

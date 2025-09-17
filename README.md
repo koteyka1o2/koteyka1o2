@@ -1,12 +1,14 @@
 <h1 align="center">⛄️🎄 Ку! Я Костя 🎄⛄️</h1>
 <h3 align="center">✨ 16 лет | Python разработка | Windows 11 ✨</h3>
+<p align="center">
+<img src="https://i.pinimg.com/originals/bd/7f/ce/bd7fce6d5fa8013333b1777ada8485c9.gif" width="600"/>
+</p>
 
 ---
 
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bd/7f/ce/bd7fce6d5fa8013333b1777ada8485c9.gif" width="600"/>
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/93c67daff9cd04061ce3fa1e135e44c33b8e46c0cd4ac1da0009de3d5ed43bc1.gif" width="600"/>
 </p>
 

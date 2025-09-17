@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <video src="ехиле_повторил_мем_#exile_#кореш_#хачюкакоть.mp4" width="400" controls></video>
+  <video src="exile_mem" width="400" controls></video>
 </p>
 
 ---

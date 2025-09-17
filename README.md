@@ -53,7 +53,7 @@
 
 ## 🎄 Атмосфера
 <p align="center">
-  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="250"/>
+  <img src="https://media.tenor.com/T8cMDloCf5QAAAAj/pwgood-mikro-pwgood.gif" width="250"/>
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/>
   <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="250"/>
 </p>
@@ -65,9 +65,9 @@
 ---
 
 <p align="center">
-  ✨ С Новым годом, и пусть всегда будет вайб ✨  
+  ✨ С Новым годом!✨  
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="250"/>
+  <img src="https://i.pinimg.com/originals/6f/40/25/6f4025f83d11fbb560ed453e98d80104.gif" width="250"/>
 </p>

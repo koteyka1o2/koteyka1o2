@@ -22,7 +22,7 @@
 
 ## 🎶 Музыкальный вайб  
 <p align="center">
-  <img src="https://telegraphoto.site/images/ddc05193-9d94-4fbe-a6f6-d5c1c9bf70da.jpg" width="120" style="border-radius:50%"/>
+  <img src="https://telegraphoto.site/images/ddc05193-9d94-4fbe-a6f6-d5c1c9bf70da.jpg" width="120" style="border-radius:100%"/>
 </p>
 
 <p align="center">

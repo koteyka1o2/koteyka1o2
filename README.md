@@ -1,7 +1,8 @@
 <h1 align="center">⛄️🎄 Ку! Я Костя 🎄⛄️</h1>
 <h3 align="center">✨ 16 лет | Python разработка | Windows 11 ✨</h3>
-
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/bo2JWjTa8A4AAAAC/christmas-lights-lights.gif" width="600"/>
+</p>
 
 ---
 
@@ -69,4 +70,8 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/6f/40/25/6f4025f83d11fbb560ed453e98d80104.gif" width="250"/>
+</p>
+<p align="center">
+
+  <img src="https://i.pinimg.com/originals/1c/bf/a2/1cbfa2bd879a98ccd1c61884648d57c7.gif" width="250"/>
 </p>

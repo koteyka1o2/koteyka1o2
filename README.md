@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <video src="ехиле_повторил_мем_#exile_#кореш_#хачюкакоть.mp4" width="400" controls></video>
+  https://github.com/user-attachments/assets/c9f2c198-7ff6-4237-a319-c7dae44b85e1
 </p>
 
 ---

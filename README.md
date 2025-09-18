@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/45655e50-91c4-4e65-8402-ca0cae63523e" width="100%"/>
-</p>
+
 <h1 align="center">⛄️🎄 Ку! Я Костя 🎄⛄️</h1>
 <h3 align="center">✨ 16 лет | Python разработка | Windows 11 ✨</h3>
 <p align="center">

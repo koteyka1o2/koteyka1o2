@@ -39,11 +39,15 @@
 
 ---
 
-## 🛠️ Стек
+## 🛠️ Чем пользуюсь
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows%2011-0078D6.svg?style=for-the-badge&logo=windows11&logoColor=white"/>
+  <img src="https://telegraphoto.site/images/4d1c2b7b-528c-47d7-8b4a-61c56f15f73c.jpg"width="150"/>
+  <img src="https://telegraphoto.site/images/2e47c3fb-9272-4562-9e6f-70a80a258138.jpg"width="150"/>
+  
 </p>
+
 
 ---
 

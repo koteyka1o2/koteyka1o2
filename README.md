@@ -47,6 +47,21 @@
 
 ---
 
+## 🌐 Контакты
+<p align="left">
+  <a href="https://t.me/koteyka1o2">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://mzlff.straw.page">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4.svg?style=for-the-badge&logo=sparkles&logoColor=white"/>
+  </a>
+  <a href="https://guns.lol/mzlff">
+    <img src="https://img.shields.io/badge/Links-FF4500.svg?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub статистика
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=koteyka1o2&show_icons=true&theme=tokyonight" height="160"/>

@@ -16,17 +16,18 @@
 ---
 
 ## ❄️ Немного обо мне  
-- 🐍 Знаю **Python**  
+- 🐍 Изучаю **Python**  
 - 💻 Использую **Windows 11**  
-- 🎹 В Roblox играю на пианино  
+- 🎹 В Roblox играю  
 - 🎄 Люблю Новый год и зимний вайб  
-- 🦩 Страусы топ 🦩  
+- 🦩 Страусы топ 🦩
+- Умею вайб кодить🌹  
 
 ---
 
 ## 🎶 Музыкальный вайб  
 <p align="center">
-  <img src="https://telegraphoto.site/images/ddc05193-9d94-4fbe-a6f6-d5c1c9bf70da.jpg" width="120" style="border-radius:100%"/>
+  <img src="https://telegraphoto.site/images/ddc05193-9d94-4fbe-a6f6-d5c1c9bf70da.jpg" width="300" style="border-radius:100%"/>
 </p>
 
 <p align="center">

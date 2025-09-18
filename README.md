@@ -29,6 +29,9 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/user-attachments/files/22406903/PWGood.-.Ai.Cover.mp3">🎧 Слушать «PWGood-Деньги»</a>
+</p>
+<p align="center">
   <b>MZLFF</b><br>
   <a href="https://soundcloud.com/mzlff-74073583/pochemuchka-feat-ekaterina?si=82401e40f2e04be380cce383f5c0faa6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">🎧 Слушать «Почемучка»</a>
 </p>

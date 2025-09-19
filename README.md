@@ -8,7 +8,6 @@
 
 
 
-
 <p align="center">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/93c67daff9cd04061ce3fa1e135e44c33b8e46c0cd4ac1da0009de3d5ed43bc1.gif" width="600"/>
 </p>
@@ -89,7 +88,7 @@
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6592de0716f1ad2e3974afae_6592df4b1f823614d3672b38/orig" width="600"/>
 </p>
 
-## 🎄 Атмосфера
+## 🎄 Атмосфера  <img src="https://i.pinimg.com/originals/78/c6/d9/78c6d9fa8e7b8cc95d6abfbee1d00df1.gif" width="20"/>
 <p align="center">
   <img src="https://media.tenor.com/T8cMDloCf5QAAAAj/pwgood-mikro-pwgood.gif" width="250"/>
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/>

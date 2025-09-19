@@ -1,11 +1,11 @@
 
 <h1 align="center">⛄️🎄 Ку! Я Костя 🎄⛄️</h1>
 <h3 align="center">✨ 16 лет | Python разработка | Windows 11 ✨</h3>
+
 <p align="center">
-  <img src="https://media1.tenor.com/m/bo2JWjTa8A4AAAAC/christmas-lights-lights.gif" width="600"/>
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6592de0716f1ad2e3974afae_6592df4b1f823614d3672b38/orig" width="600"/>
 </p>
 
----
 
 
 
@@ -13,7 +13,9 @@
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/93c67daff9cd04061ce3fa1e135e44c33b8e46c0cd4ac1da0009de3d5ed43bc1.gif" width="600"/>
 </p>
 
----
+<p align="center">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6592de0716f1ad2e3974afae_6592df4b1f823614d3672b38/orig" width="600"/>
+</p>
 
 ## ❄️ Немного обо мне  
 - 🐍 Изучаю **Python**  
@@ -23,11 +25,13 @@
 - 🦩 Страусы топ 🦩
 - Умею вайб кодить🌹  
 
----
+<p align="center">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6592de0716f1ad2e3974afae_6592df4b1f823614d3672b38/orig" width="600"/>
+</p>
 
 ## 🎶 Музыкальный вайб  
 <p align="center">
-  <img src="https://telegraphoto.site/images/ddc05193-9d94-4fbe-a6f6-d5c1c9bf70da.jpg" width="300" style="border-radius:100%"/>
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6592de0716f1ad2e3974afae_6592df4b1f823614d3672b38/orig" width="600"/>
 </p>
 
 <p align="center">
@@ -37,7 +41,9 @@
 
    https://github.com/user-attachments/assets/c9f2c198-7ff6-4237-a319-c7dae44b85e1
 
----
+<p align="center">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6592de0716f1ad2e3974afae_6592df4b1f823614d3672b38/orig" width="600"/>
+</p>
 
 ## 🛠️ Чем пользуюсь
 <p align="left"> 
@@ -51,7 +57,9 @@
 </p>
 
 
----
+<p align="center">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6592de0716f1ad2e3974afae_6592df4b1f823614d3672b38/orig" width="600"/>
+</p>
 
 ## 🌐 Контакты
 <p align="left">
@@ -66,7 +74,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6592de0716f1ad2e3974afae_6592df4b1f823614d3672b38/orig" width="600"/>
+</p>
 
 ## 📊 GitHub статистика
 <p align="center">
@@ -74,7 +84,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koteyka1o2&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
----
+<p align="center">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6592de0716f1ad2e3974afae_6592df4b1f823614d3672b38/orig" width="600"/>
+</p>
 
 ## 🎄 Атмосфера
 <p align="center">
@@ -87,7 +99,9 @@
  
 
 
----
+<p align="center">
+  <img src="https://media1.tenor.com/m/bo2JWjTa8A4AAAAC/christmas-lights-lights.gif" width="600"/>
+</p>
 
 <p align="center">
   ✨ С Новым годом!✨  

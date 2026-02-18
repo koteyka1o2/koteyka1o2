@@ -1,6 +1,6 @@
 
 <h1 align="center">⛄️🎄 Ку! Я Костя 🎄⛄️</h1>
-<h3 align="center">✨ 16 лет | Python разработка | Windows 11 ✨</h3>
+<h3 align="center">✨ 16 лет | Python | Windows 11 ✨</h3>
 
 <p align="center">
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_6592de0716f1ad2e3974afae_6592df4b1f823614d3672b38/orig" width="600"/>
@@ -19,8 +19,8 @@
 ## ❄️ Немного обо мне  
 - 🐍 Изучаю **Python**  
 - 💻 Использую **Windows 11**  
-- 🎹 В Roblox играю  
-- 🎄 Люблю Новый год и зимний вайб  
+- 🎹 В Roblox играю, а также в Stalcraft X\(редко)
+- 🎄 Люблю Новый год и зимний вайб\(летний тоже люблю но ток весной и под конец зимы)  
 - 🦩 Страусы топ 🦩
 - Умею вайб кодить🌹  
 

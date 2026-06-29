@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1200&color=00FFFF&center=true&vCenter=true&width=520&lines=я+в+интернете+живу...;%3E_+Arch+Linux+%2B+Hyprland;%3E_+Python+%7C+HTML+%7C+Bash;%3E_+создаю+%C2%B7+играю+%C2%B7+существую+в+сети)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1200&color=00FFFF&center=true&vCenter=true&width=520&lines=я+в+интернете+живу...;%3E_+Arch+Linux+%2B+Hyprland;%3E_+Python+%7C+HTML;%3E_+создаю+%C2%B7+играю+%C2%B7)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@
 ║  WM:      Hyprland                                   ║
 ║  Phone:   iPhone 13                                  ║
 ║  MBTI:    ISFP                                       ║
-║  uptime:  16 лет, 0 краша  ▮                         ║
+║  uptime:  17 лет  ▮                                  ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -45,7 +45,7 @@
 | 🐧 | **Arch Linux** + Hyprland (btw) |
 | 🎨 | Рисую персонажей и иногда мемы |
 | 🌍 | **GeoGuesser** — знаю мир лучше соседей |
-| ⛏️ | **Minecraft** · 🎭 **Roblox** · 🎹 пианино в roblox |
+| ⛏️ | **Minecraft** · 🎭 **Roblox** · 🎹 пианино в roblox · ☢️ **STALZONE** |
 | 🦩 | Страусы топ |
 | 🎵 | Слушаю **MZLFF** на репите |
 | 🌐 | В интернете живу, дышу и существую |
@@ -64,11 +64,8 @@
 
 ![Python](https://img.shields.io/badge/Python-0d1b4b?style=for-the-badge&logo=python&logoColor=00FFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1b4b?style=for-the-badge&logo=html5&logoColor=00FFFF)
-![CSS3](https://img.shields.io/badge/CSS3-0d1b4b?style=for-the-badge&logo=css3&logoColor=00FFFF)
-![Bash](https://img.shields.io/badge/Bash-0d1b4b?style=for-the-badge&logo=gnu-bash&logoColor=00FFFF)
 ![Arch](https://img.shields.io/badge/Arch_Linux-0d1b4b?style=for-the-badge&logo=arch-linux&logoColor=00FFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1b4b?style=for-the-badge&logo=visual-studio-code&logoColor=00FFFF)
-![Git](https://img.shields.io/badge/Git-0d1b4b?style=for-the-badge&logo=git&logoColor=00FFFF)
 ![Hyprland](https://img.shields.io/badge/Hyprland-0d1b4b?style=for-the-badge&logo=wayland&logoColor=00FFFF)
 
 </div>
